@@ -1,5 +1,5 @@
 {
-    "name": "SergienkoD/user-bundle",
+    "name": "sergienkod/user-bundle",
     "type": "symfony-bundle",
     "description": "Symfony FOSUserBundle",
     "keywords": [
